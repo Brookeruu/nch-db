@@ -1,10 +1,6 @@
 {
 	"locations": [
-	{
-		"LocationID": 12,
-		"Name": "Ashland Outpatient Cardiology Services",
-		"Sort": null
-	}, {
+ {
 		"LocationID": 13,
 		"Name": "Athens Outpatient Cardiology Services",
 		"Sort": null
@@ -16,16 +12,12 @@
 		"LocationID": 19,
 		"Name": "Dayton Outpatient Cardiology Services",
 		"Sort": null
-	}, {
-		"LocationID": 35,
-		"Name": "Lima Outpatient Cardiology Services",
-		"Sort": null
 	}],
 	"13": [
 	{	
 		"LocationID": 13,
 		"Name": "Chillicothe Close To Home Center",
-		"Address1": "75 Hospital Drive",
+		"Address1": "13 Hospital Drive",
 		"Address2": "Castrop Center, Suite 230",
 		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
 		}],
@@ -33,15 +25,15 @@
 		{	
 		"LocationID": 17,
 		"Name": "Athens Outpatient Cardiology Services",
-		"Address1": "75 Hospital Drive",
+		"Address1": "17 Hospital Drive",
 		"Address2": "Castrop Center, Suite 230",
 		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
 		}],
 	"19": [
 		{	
-		"LocationID": 17,
+		"LocationID": 19,
 		"Name": "Athens Outpatient Cardiology Services",
-		"Address1": "75 Hospital Drive",
+		"Address1": "19 Hospital Drive",
 		"Address2": "Castrop Center, Suite 230",
 		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
 		}]
