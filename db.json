@@ -17,24 +17,24 @@
 	{	
 		"LocationID": 13,
 		"Name": "Athens Outpatient Cardiology Services",
-		"Address1": "13 Hospital Drive",
-		"Address2": "Castrop Center, Suite 230",
-		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
+		"Phone": "900-123-4567",
+		"Fax": "123-456-7890",
+		"ImageURL": "assets/img/temp/canal-winchester-close-to-home-center-urgent-care.jpg"
 		}],
 	"17": [
 		{	
 		"LocationID": 17,
 		"Name": "Chillicothe Close To Home Center",
-		"Address1": "17 Hospital Drive",
-		"Address2": "Castrop Center, Suite 230",
-		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
+		"Phone": "123-456-7890",
+		"Fax": "987-654-3210",
+		"ImageURL": "assets/img/temp/canal-winchester-close-to-home-center-urgent-care.jpg"
 		}],
 	"19": [
 		{	
 		"LocationID": 19,
 		"Name": "Dayton Outpatient Cardiology Services",
-		"Address1": "19 Hospital Drive",
-		"Address2": "Castrop Center, Suite 230",
-		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
+		"Phone": "987-654-3210",
+		"Fax": "900-123-4567",
+		"ImageURL": "assets/img/temp/canal-winchester-close-to-home-center-urgent-care.jpg"
 		}]
 }
