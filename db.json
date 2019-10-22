@@ -1,50 +1,32 @@
 {
-	"LocationID": 13,
-	"Name": "Athens Outpatient Cardiology Services",
-	"NameNotation": null,
-	"Note": null,
-	"ParkingNote": null,
-	"Description": null,
-	"Address1": "75 Hospital Drive",
-	"Address2": "Castrop Center, Suite 230",
-	"City": "Athens",
-	"State": "OH",
-	"Zip": "45701",
-	"Phone": "",
-	"Fax": "",
-	"Longitude": "-82.115822",
-	"Latitude": "39.328901",
-	"LocationCode": "athGC",
-	"StreetViewPitch": "",
-	"StreetViewHeading": "",
-	"StreetViewLongitude": "",
-	"StreetViewLatitude": "",
-	"StreetViewZoom": 1,
-	"StreetViewStatus": false,
-	"Zoom": 14,
-	"InfoBoxWidth": "250px",
-	"InfoBoxHeight": "80px",
-	"MarkerImage": "heartframe_80.png",
-	"MarkerShadow": "shadow-NW_icon1_80.png",
-	"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822",
-	"ImageURL": "{82322B9D-9A60-49C3-8A4F-91E07596F626}",
-	"SitecoreURL": "{6A80816D-EC56-4AAB-A7D4-2D965D93808B}",
-	"Parking": [],
-	"LocationImages": [],
-	"LocationSecondaryAddresses": [],
-	"LocationServices": [],
-	"LocationTypes": [{
-		"LocationTypeID": 34,
-		"Name": "Heart Center"
+	"locations": [
+	{
+		"LocationID": 12,
+		"Name": "Ashland Outpatient Cardiology Services",
+		"Sort": null
+	}, {
+		"LocationID": 13,
+		"Name": "Athens Outpatient Cardiology Services",
+		"Sort": null
+	}, {
+		"LocationID": 17,
+		"Name": "Chillicothe Close To Home Center",
+		"Sort": null
+	}, {
+		"LocationID": 19,
+		"Name": "Dayton Outpatient Cardiology Services",
+		"Sort": null
+	}, {
+		"LocationID": 35,
+		"Name": "Lima Outpatient Cardiology Services",
+		"Sort": null
 	}],
-	"LocationRegion": [],
-	"People": [{
-		"PersonKeyID": 924,
-		"FirstName": "Timothy",
-		"LastName": "Grannell",
-		"MiddleName": "P.",
-		"Suffix": "",
-		"Title": "CRNA"
-	}],
-	"LocationSchedule": []
+	"locationID13": [
+	{	
+		"LocationID": 13,
+		"Name": "Athens Outpatient Cardiology Services",
+		"Address1": "75 Hospital Drive",
+		"Address2": "Castrop Center, Suite 230",
+		"GoogleURL": "https://maps.googleapis.com/maps/api/staticmap?key=AIzaSyAVyMJXYQPsw0xHHNmxEC42AdbWXiucWgQ&center=39.328901,-82.115822&zoom=14&size=600x300&maptype=roadmap&markers=color:blue%7C39.328901,-82.115822"
+		}]
 }
