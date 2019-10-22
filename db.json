@@ -1,21 +1,24 @@
-[{
-	"LocationID": 12,
-	"Name": "Ashland Outpatient Cardiology Services",
-	"Sort": null
-}, {
-	"LocationID": 13,
-	"Name": "Athens Outpatient Cardiology Services",
-	"Sort": null
-}, {
-	"LocationID": 17,
-	"Name": "Chillicothe Close To Home Center",
-	"Sort": null
-}, {
-	"LocationID": 19,
-	"Name": "Dayton Outpatient Cardiology Services",
-	"Sort": null
-}, {
-	"LocationID": 35,
-	"Name": "Lima Outpatient Cardiology Services",
-	"Sort": null
-}]
+{
+	"locations": [
+	{
+		"LocationID": 12,
+		"Name": "Ashland Outpatient Cardiology Services",
+		"Sort": null
+	}, {
+		"LocationID": 13,
+		"Name": "Athens Outpatient Cardiology Services",
+		"Sort": null
+	}, {
+		"LocationID": 17,
+		"Name": "Chillicothe Close To Home Center",
+		"Sort": null
+	}, {
+		"LocationID": 19,
+		"Name": "Dayton Outpatient Cardiology Services",
+		"Sort": null
+	}, {
+		"LocationID": 35,
+		"Name": "Lima Outpatient Cardiology Services",
+		"Sort": null
+	}]
+}
